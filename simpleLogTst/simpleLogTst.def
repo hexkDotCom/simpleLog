@@ -1,0 +1,5 @@
+LIBRARY simpleLogTst
+EXPORTS
+	DllMain
+	simpleLogTst
+	w_simpleLogTst

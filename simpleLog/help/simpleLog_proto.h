@@ -1,0 +1,11 @@
+/* USRLIB MODULE INFORMATION
+
+	MODULE NAME: simpleLog
+	MODULE RETURN TYPE: void 
+	NUMBER OF PARMS: 0
+	ARGUMENTS:
+	INCLUDES:
+#include "keithley.h"
+	END USRLIB MODULE INFORMATION
+*/
+void  simpleLog();

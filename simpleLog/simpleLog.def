@@ -1,0 +1,5 @@
+LIBRARY simpleLog
+EXPORTS
+	DllMain
+	simpleLog
+	w_simpleLog
